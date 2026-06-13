@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.4.0/jarvis-0.4.0-arm64.apk",
-  "notes": "Fix: hands-free gesprek werkt nu voorbij de eerste beurt."
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.5.0/jarvis-0.5.0-arm64.apk",
+  "notes": "Betere antwoorden: verse LLM-sessie + sampling, geen herhalingslussen meer."
 }
