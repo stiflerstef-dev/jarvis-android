@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.3.0/jarvis-0.3.0-arm64.apk",
-  "notes": "Brein! App downloadt nu automatisch het Gemma-model bij eerste start (~530 MB)."
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.4.0/jarvis-0.4.0-arm64.apk",
+  "notes": "Fix: hands-free gesprek werkt nu voorbij de eerste beurt."
 }
