@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.1.0/jarvis-0.1.0-arm64.apk",
-  "notes": "Eerste Jarvis Android build (arm64)."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.2.0/jarvis-0.2.0-arm64.apk",
+  "notes": "STT valt nu automatisch terug (offline NL → online NL → systeemtaal) i.p.v. fout 12."
 }
