@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.7.0/jarvis-0.7.0-arm64.apk",
-  "notes": "Schermbediening (fase 2): scherm voorlezen + apps bedienen via Toegankelijkheid (tikken, scrollen, typen, terug/home)."
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.8.0/jarvis-0.8.0-arm64.apk",
+  "notes": "Slimmere Jarvis: Gemma 4B-model (eenmalig ~2,4 GB) + natuurlijkere commando-herkenning."
 }
