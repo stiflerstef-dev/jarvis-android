@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.5.0/jarvis-0.5.0-arm64.apk",
-  "notes": "Betere antwoorden: verse LLM-sessie + sampling, geen herhalingslussen meer."
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/stiflerstef-dev/jarvis-android/releases/download/v0.6.0/jarvis-0.6.0-arm64.apk",
+  "notes": "Telefoonbesturing (fase 1): apps, bellen, berichten, navigatie, web, timer, instellingen, media — via spraak."
 }
